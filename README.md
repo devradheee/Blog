@@ -25,11 +25,3 @@ To install and run this project - install dependencies using npm and then start 
 $ npm install
 $ npm run dev
 ```
-
-
-
-### Website
-[www.raddy.dev](https://www.raddy.dev)
-
-### Donations
-[Buy me a Coffee](https://www.buymeacoffee.com/RaddyTheBrand)
